@@ -1,0 +1,10 @@
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\bin\Debug\XamarinAndroid.dll
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\bin\Debug\XamarinAndroid.pdb
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\bin\Debug\nunit.framework.dll
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\bin\Debug\Xamarin.UITest.dll
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\bin\Debug\nunit.framework.xml
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\bin\Debug\Xamarin.UITest.xml
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\obj\Debug\XamarinAndroid.csprojResolveAssemblyReference.cache
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\obj\Debug\XamarinAndroid.csproj.CoreCompileInputs.cache
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\obj\Debug\XamarinAndroid.dll
+C:\Users\deine\source\repos\XamarinAndroid\XamarinAndroid\obj\Debug\XamarinAndroid.pdb
